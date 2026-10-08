@@ -6,6 +6,13 @@ Each student forks this repository, adds a personal page under `students/{github
 
 **Live site (after GitHub Pages or local preview):** open `index.html` in a browser.
 
+
+## Screenshots
+
+Captured from the locally running static website, including the repository's sample student entries. These entries are demonstration content.
+
+![Running contributors gallery with search and student cards](docs/images/gallery.png)
+
 ## Purpose
 
 - Practice **fork → SSH clone → feature branch → Pull Request**.
